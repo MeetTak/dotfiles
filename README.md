@@ -26,15 +26,15 @@ Install karabiner elements from the below website
 Clone the repository
 After cloning head over to the directory using your terminal, and run the following command
 
-'''bash
+```bash
 stow .
-'''
+```
 
 To install the brew packages on your machine, run the following command
 
-'''bash
+```bash
 brew bundle install
-'''
+```
 
 ---
 
